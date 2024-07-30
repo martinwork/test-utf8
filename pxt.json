@@ -23,5 +23,7 @@
         "microbit"
     ],
     "preferredEditor": "tsprj",
-    "utf8": true
+    "compile": {
+        "utf8": true
+    }
 }
